@@ -1,4 +1,4 @@
-module github.com/MaruHyl/go-clickhouse-batchinsert
+module github.com/xiongdi9456/go-clickhouse-batchinsert
 
 go 1.12
 
